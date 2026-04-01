@@ -9,9 +9,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Udemy/Products/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Examples/currency_converter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/basic_todo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Examples/bank_account/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Examples/employees/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Examples/hostel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Examples/matrix_diagonal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/Simple/bank_account/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/Simple/employees/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/Simple/hostel/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
